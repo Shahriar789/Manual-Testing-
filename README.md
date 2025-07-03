@@ -2,30 +2,31 @@ Manual Testing Resources
 This repository contains a collection of essential documents, templates, and notes related to Manual Software Testing. It is intended for both learning and practical implementation in real-world projects.
 
 📄 What's Included:
-✅ Test Plans
 
-✅ Test Cases & Scenarios
+    ✅ Test Plans
 
-🐞 Bug Reports & Templates
+    ✅ Test Cases & Scenarios
 
-📋 Checklists & Traceability Matrix
+    🐞 Bug Reports & Templates
 
-🔍 Functional, Regression & Smoke Test Documents
+    📋 Checklists & Traceability Matrix
 
-📚 Notes on Testing Best Practices
+    🔍 Functional, Regression & Smoke Test Documents
+  
+    📚 Notes on Testing Best Practices
 
 📌 API Testing (Postman/Manual Approach)
 
-📈 Load and Performance Testing Concepts
+    📈 Load and Performance Testing Concepts
 
-🚀 Basic Introduction to Automation Testing
+    🚀 Basic Introduction to Automation Testing
 
 📌 Purpose:
-This repository serves as a personal archive and reference hub for my manual testing work and learnings. It can be helpful for:
+  This repository serves as a personal archive and reference hub for my manual testing work and learnings. It can be helpful for:
 
-Freshers looking to understand real-life QA documentation
+  Freshers looking to understand real-life QA documentation
 
-Testers building test plans and cases from scratch
+  Testers building test plans and cases from scratch
 
 QA learners preparing for interviews or certifications
 
